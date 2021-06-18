@@ -10,6 +10,11 @@
 
 # production
 /build
+/uploads/images/**.jpg
+/uploads/images/**.jpeg
+/uploads/images/**.png
+/uploads/videos/**.webm
+/uploads/videos/**.mp4
 
 # misc
 .DS_Store
